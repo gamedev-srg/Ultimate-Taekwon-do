@@ -7,7 +7,7 @@
 ## מהות המשחק
 
 This game consists in 2 main gameplay modes: Duels and Patterns.
-In Duels, players will face against each other in a Taekwon-do-style duel. trying to keep their health above the enemies, without stepping outside the arena bound.
+In Duels, players will face against each other in a Taekwon-do-style duel. trying to keep their health above the enemy's, without stepping outside the arena's bounds.
 In patterns, playes will be presented a series of movments, which they will have to remember and re-perform in a limited time. Fastest and most accurate wins.
 
 This game can fit both PC and Mobile platforms.
