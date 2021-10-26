@@ -13,7 +13,7 @@ In patterns, playes will be presented a series of movments, which they will have
 
 This game can fit both PC and Mobile platforms.
 
-![Taekwon-do-game-image](https://user-images.githubusercontent.com/74140353/138917140-ae96205c-c44f-4079-8e1c-e2bc727638e8.png)
+![Taekwon-do-game-image](https://user-images.githubusercontent.com/74140353/138918454-f5b2b93d-b1b9-430e-a65d-c6cee69b18aa.png)
 
 ---
 
