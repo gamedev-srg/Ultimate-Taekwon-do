@@ -20,14 +20,11 @@ This game can fit both PC and Mobile platforms.
 
 ## רכיבים רשמיים
 
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
-(החליפו את הטקסט של השאלות בתשובות שלכם).
 
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
 
 ### 1. שחקנים
 
-* This game is inteded for players of all ages, as difficuly level can be adjusted according to the player's skill. This game has a fast learning curve, meaning players can easily jump in the action without having to learn and practice for a long time
+* This game is inteded for players of all ages, as difficuly level can be adjusted according to the player's skill. This game has a shallow learning curve, meaning players can easily jump in the action without having to learn and practice for a long time
 * The game is inteded for 1-2 Players, depending if the player is against an npc or another player
 * The interaction between players is competitve
 
@@ -40,7 +37,6 @@ This game can fit both PC and Mobile platforms.
 
 ### 3. תהליכים
 
-תארו בפירוט את:
 
 * The game's first moments will throw the player right in the middle of an Duel intro level, Scripted moves by an npc will allow the game time to teach the core game mechanics without the player becoming frustrated, whilst also giving the player the satisfaction of winning a fight (A simillar example can be seen in Amazon's New World intro level)
 * The core game loop consists of winning matches to increase skill level, allowing you to unlock harder levels, so on and so forth. Winning matches will grant coins, which players can use to unlock cosmetics (if implemented) 
