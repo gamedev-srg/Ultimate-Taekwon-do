@@ -1,16 +1,16 @@
 <div dir='rtl' lang='he'>
 
-# כותרת ראשית: שם המשחק
+# כותרת ראשית: Ultimate Taekwon-do
 
-**tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
+**tagline: Unleash your Inner Taekwon-Do fighter! Fight in epic duels and display your expertise in Patterns!**
 
 ## מהות המשחק
 
-תארו את הרעיון המרכזי של המשחק שלכם
-(concept) 
-בשלושה-ארבעה משפטים.
+This game consists in 2 main gameplay modes: Duels and Patterns.
+In Duels, players will face against each other in a Taekwon-do-style duel. trying to keep their health above the enemies, without stepping outside the arena bound.
+In patterns, playes will be presented a series of movments, which they will have to remember and re-perform in a limited time. Fastest and most accurate wins.
 
-לאיזה פלטפורמה מיועד המשחק שלכם (כגון: מחשב רגיל / טלפון נייד / אינטרנט)?
+This game can fit both PC and Mobile platforms.
 
 שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
 
@@ -26,71 +26,69 @@
 
 ### 1. שחקנים
 
-* לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-* לכמה שחקנים מיועד המשחק?
-* מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
+* This game is inteded for players of all ages, as difficuly level can be adjusted according to the player's skill. This game has a fast learning curve, meaning players can easily jump in the action without having to learn and practice for a long time
+* The game is inteded for 1-2 Players, depending if the player is against an npc or another player
+* The interaction between players is competitve
 
 ### 2. יעדים
 
-* מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
-* איך המשחק יודיע לשחקן את היעדים שלו? 
-* האם השחקן יוכל לבחור יעדים אחרים?
+* In duels, the main objective is to have more health than the enemy player once the timer runs out
+* In Patterns the main objective is to achieve a higher score by choosing the right moves quicker than your opponent
+* Players will be introduced to the main objective via a combination of tools (Intro level + Widely accpeted game concepts as HP bars and score)
+* As for the moment, players will not have the option to choose different objectives.
 
 ### 3. תהליכים
 
 תארו בפירוט את:
 
-* תהליך ההתחלה של המשחק - שלושים השניות הראשונות (זה הזמן ששחקן ממוצע, שייתקל במשחק שלכם באינטרנט, ישחק בו לפני שיחליט אם להמשיך או לא. מה תעשו כדי לגרום לו להישאר?);
-*	תהליך הליבה של המשחק – רצף-הפעולות שהשחקן מבצע שוב ושוב על-מנת להתקדם במשחק.
-*	תהליך הסיום של המשחק – הפעולות שהשחקן מבצע כדי לנצח / לסיים את המשחק.
-לגבי כל תהליך, תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
+* The game's first moments will throw the player right in the middle of an Duel intro level, Scripted moves by an npc will allow the game time to teach the core game mechanics without the player becoming frustrated, whilst also giving the player the satisfaction of winning a fight (A simillar example can be seen in Amazon's New World intro level)
+* The core game loop consists of winning matches to increase skill level, allowing you to unlock harder levels, so on and so forth. Winning matches will grant coins, which players can use to unlock cosmetics (if implemented) 
+* To finish the game (Finish a match) a player must complete the above objectives.
 
-איך השחקן ילמד על התהליכים? 
-
-לגבי כל תהליך, ענו על השאלות: "מי עושה מה, איפה, מתי, ואיך?".
-
-לגבי כל תהליך, תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
+The game's mechanics are simple, so every player can have an easy time to grasp and understand them. The game will introduce it's mechanics via an intro level(for duels).
+Once the player decides to try patterns for the first time, and intro level will be played there too.
+actions are performed using the keyboard In Duels, or (mouse OR keyboard) in Patterns.
 
 ### 4. חוקים
 
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
+* Rules which restrict the players actions are ones that either reduce his HP (such as getting hit or stepping out of the arena bounds), or ones that reduce, or don't increase his score (Performing the wrong movment in patterns)
+* Rules are pre-determined, the player cannot change them. the ruleset is simple and widely accepted as the standarad for such games.
+* The player will learn rules via visual cues, such as seeing his or the enemy's HP bar go down, Or seeing your points go down (or up)
 
 
 ### 5. משאבים
 
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
+* In duels, resources are HP and stamina. in Patterns, resource is score.
+* HP is what determines who wins, and stamina allowes players to perform attacks. without stamina a player cannot attack, leaving him in a disadvantage.
+In patterns, The player with the highest score wins.
+* Players cannot regain HP. they can regain stamina by playing tactically, not wearing themselves out. Players gain score by performing the correct abillity, and quickly.
+* Since HP is limited, is rare. Stamina isn't rare per-say, but it is expended by abillites, which players will have to use to win the game. Score isn't rare, but a player must be better than his opponent to gain a higher score.
+* Visual cues will inform the player of the resources(HP and stamina bars, scoure counter)
 
 ### 6. עימותים
 
 מה יהיו העימותים המרכזיים במשחק:
 
-* בין השחקן למערכת (מכשולים),
-* בין השחקן לשחקנים אחרים (יריבים),
-* בין השחקן לעצמו (דילמות)? 
+* This is a lesser-conflict, it is not the main conflict players will face, but the players must deal with the game's stamina,timer,and arena-bounds system.
+* Main game conflict is between oponnents, fighting them in both game modes to have more HP, or have a higher score.
+* The player must manage the stamina resource, and remember the order of movments in a pattern.
 
 
 ### 7. גבולות
 
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
+* Closed world, bounds in duels are the arena's out-of-bounds edge. In patterns the player cannot perfrom movement actions.
+*  Flat world. not circular
 
- איך המשחק יראה לשחקן את הגבולות? 
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
+ The game will show the player he is near the arena's edge via visual cues(different color for the edge) If the player reaches the out-of-bounds edge, he will be blocked by a wall or something simillar, to show he cannot move further.
+
+The duels' map is very simple and intuitive, often times a different color for the border represents the edge of the arena. The map is also a crucial part of the game's rules, if a player steps out of it's bounds, he is damaged.
 
 
 ### 8. תוצאות
 
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+* The game has 3 possible outcomes. A player can either win or lose. in unlikely scenario where players will have an equal amount of HP once the timer ends, the game will end in a draw.
+* The outcome isn't related to luck as there is nothing random about the game. it's mainly about skill. The only place where luck can be a factor is if you happen upon a Pattern you don't rememeber, but yet, it's about skill.
+* The game has a zero-sum outcome. 
 
 ---
 
@@ -102,11 +100,11 @@
 
 זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
 
+Simillar game: Dojang 
 * שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
+* Despite looking simillar, Dojang doesn't implement the arena-bounds, system. having Score in duels instead of HP lessens the effect of attacks, as players are more likely to feel satisfaction from seeing the enemy's HP decrease once they are attacked, rather then seeing their score go up. Also, Dojang doesn't have the Patterns game mode.
 
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
+The implementaion of the out-of-bounds system, with the addition of Patterns, and moves related to Taekwon-do will make the game stand out.
 
 
 </div>
