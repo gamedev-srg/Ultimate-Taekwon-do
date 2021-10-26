@@ -102,10 +102,23 @@ The duels' map is very simple and intuitive, often times a different color for t
 זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
 
 Simillar game: Dojang 
-* שימו קישור וצילום-מסך להמחשה.
+ https://taekwondo.en.uptodown.com/android
+ 
+* ![Screenshot (13)](https://user-images.githubusercontent.com/74140353/138919875-3b3e5231-3d8e-4162-9c9e-3e0e71b4fd0a.png)
+
 * Despite looking simillar, Dojang doesn't implement the arena-bounds, system. having Score in duels instead of HP lessens the effect of attacks, as players are more likely to feel satisfaction from seeing the enemy's HP decrease once they are attacked, rather then seeing their score go up. Also, Dojang doesn't have the Patterns game mode.
 
+ Simillar game: True Taekwondo 
+ https://www.truetaekwondo.net/
+ 
+![Screenshot (14)](https://user-images.githubusercontent.com/74140353/138920879-5e4e2459-c781-4402-baaa-93db095431c1.png)
+
+ * Same concepts as before - point based system in addition to having bad controls and bad repsonse time, i'm sure our game will stand out.
+ * Likewise with the addition of Patterns.
+ 
 The implementaion of the out-of-bounds system, with the addition of Patterns, and moves related to Taekwon-do will make the game stand out.
+ 
+ These are the only 2 relavent games I found about Taekwon-do. the 3rd I found was a game released in '84 only in Japan and Korea. so its not relavent today, or here.
 
 
 </div>
