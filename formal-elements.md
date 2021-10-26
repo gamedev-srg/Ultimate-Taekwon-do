@@ -1,3 +1,4 @@
+
 <div dir='rtl' lang='he'>
 
 # כותרת ראשית: Ultimate Taekwon-do
@@ -12,7 +13,7 @@ In patterns, playes will be presented a series of movments, which they will have
 
 This game can fit both PC and Mobile platforms.
 
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
+![Taekwon-do-game-image](https://user-images.githubusercontent.com/74140353/138917140-ae96205c-c44f-4079-8e1c-e2bc727638e8.png)
 
 ---
 
