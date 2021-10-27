@@ -1,5 +1,8 @@
 # Ultimate-Taekwon-do
 
+![Taekwon-do-game-image](https://user-images.githubusercontent.com/74140353/138918454-f5b2b93d-b1b9-430e-a65d-c6cee69b18aa.png)
+
+
 Hello!
 Ultimate Taekwon-do is a game based on the Korean martial art.
 In the game you can face off against opponnents in duels or patterns.
