@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: fe3472b91f5844bed93534d1b064ae23
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Camera
+  - first:
+      1: 100002
+    second: chest
+  - first:
+      1: 100004
+    second: chest.Upper
+  - first:
+      1: 100006
+    second: collarbone.L
+  - first:
+      1: 100008
+    second: collarbone.R
+  - first:
+      1: 100010
+    second: eye.L
+  - first:
+      1: 100012
+    second: eye.L_end
+  - first:
+      1: 100014
+    second: eye.R
+  - first:
+      1: 100016
+    second: eye.R_end
+  - first:
+      1: 100018
+    second: foot.L
+  - first:
+      1: 100020
+    second: foot.R
+  - first:
+      1: 100022
+    second: Generic Man
+  - first:
+      1: 100024
+    second: hand.L
+  - first:
+      1: 100026
+    second: hand.R
+  - first:
+      1: 100028
+    second: head
+  - first:
+      1: 100030
+    second: Head 1
+  - first:
+      1: 100032
+    second: Head 10
+  - first:
+      1: 100034
+    second: Head 11
+  - first:
+      1: 100036
+    second: Head 12
+  - first:
+      1: 100038
+    second: Head 13
+  - first:
+      1: 100040
+    second: Head 19
+  - first:
+      1: 100042
+    second: Head 2
+  - first:
+      1: 100044
+    second: Head 3
+  - first:
+      1: 100046
+    second: Head 4
+  - first:
+      1: 100048
+    second: Head 5
+  - first:
+      1: 100050
+    second: Head 6
+  - first:
+      1: 100052
+    second: Head 7
+  - first:
+      1: 100054
+    second: Head 8
+  - first:
+      1: 100056
+    second: Head 9
+  - first:
+      1: 100058
+    second: hips
+  - first:
+      1: 100060
+    second: indexDistal.L
+  - first:
+      1: 100062
+    second: indexDistal.L_end
+  - first:
+      1: 100064
+    second: indexDistal.R
+  - first:
+      1: 100066
+    second: indexDistal.R_end
+  - first:
+      1: 100068
+    second: indexIntermediate.L
+  - first:
+      1: 100070
+    second: indexIntermediate.R
+  - first:
+      1: 100072
+    second: indexProximal.L
+  - first:
+      1: 100074
+    second: indexProximal.R
+  - first:
+      1: 100076
+    second: jaw
+  - first:
+      1: 100078
+    second: jaw_end
+  - first:
+      1: 100080
+    second: Lamp
+  - first:
+      1: 100082
+    second: lowerArm.L
+  - first:
+      1: 100084
+    second: lowerArm.R
+  - first:
+      1: 100086
+    second: lowerLeg.L
+  - first:
+      1: 100088
+    second: lowerLeg.R
+  - first:
+      1: 100090
+    second: //RootNode
+  - first:
+      1: 100092
+    second: MA Body 1
+  - first:
+      1: 100094
+    second: MA Body 2
+  - first:
+      1: 100096
+    second: MA Body 3
+  - first:
+      1: 100098
+    second: MA Body 4
+  - first:
+      1: 100100
+    second: MA Body 5
+  - first:
+      1: 100102
+    second: middleDistal.L
+  - first:
+      1: 100104
+    second: middleDistal.L_end
+  - first:
+      1: 100106
+    second: middleDistal.R
+  - first:
+      1: 100108
+    second: middleDistal.R_end
+  - first:
+      1: 100110
+    second: middleIntermediate.L
+  - first:
+      1: 100112
+    second: middleIntermediate.R
+  - first:
+      1: 100114
+    second: middleProximal.L
+  - first:
+      1: 100116
+    second: middleProximal.R
+  - first:
+      1: 100118
+    second: neck
+  - first:
+      1: 100120
+    second: spine
+  - first:
+      1: 100122
+    second: thumbDistal.L
+  - first:
+      1: 100124
+    second: thumbDistal.L_end
+  - first:
+      1: 100126
+    second: thumbDistal.R
+  - first:
+      1: 100128
+    second: thumbDistal.R_end
+  - first:
+      1: 100130
+    second: thumbIntermediate.L
+  - first:
+      1: 100132
+    second: thumbIntermediate.R
+  - first:
+      1: 100134
+    second: thumbProximal.L
+  - first:
+      1: 100136
+    second: thumbProximal.R
+  - first:
+      1: 100138
+    second: toe.L
+  - first:
+      1: 100140
+    second: toe.L_end
+  - first:
+      1: 100142
+    second: toe.R
+  - first:
+      1: 100144
+    second: toe.R_end
+  - first:
+      1: 100146
+    second: upperArm.L
+  - first:
+      1: 100148
+    second: upperArm.R
+  - first:
+      1: 100150
+    second: upperLeg.L
+  - first:
+      1: 100152
+    second: upperLeg.R
+  - first:
+      4: 400000
+    second: Camera
+  - first:
+      4: 400002
+    second: chest
+  - first:
+      4: 400004
+    second: chest.Upper
+  - first:
+      4: 400006
+    second: collarbone.L
+  - first:
+      4: 400008
+    second: collarbone.R
+  - first:
+      4: 400010
+    second: eye.L
+  - first:
+      4: 400012
+    second: eye.L_end
+  - first:
+      4: 400014
+    second: eye.R
+  - first:
+      4: 400016
+    second: eye.R_end
+  - first:
+      4: 400018
+    second: foot.L
+  - first:
+      4: 400020
+    second: foot.R
+  - first:
+      4: 400022
+    second: Generic Man
+  - first:
+      4: 400024
+    second: hand.L
+  - first:
+      4: 400026
+    second: hand.R
+  - first:
+      4: 400028
+    second: head
+  - first:
+      4: 400030
+    second: Head 1
+  - first:
+      4: 400032
+    second: Head 10
+  - first:
+      4: 400034
+    second: Head 11
+  - first:
+      4: 400036
+    second: Head 12
+  - first:
+      4: 400038
+    second: Head 13
+  - first:
+      4: 400040
+    second: Head 19
+  - first:
+      4: 400042
+    second: Head 2
+  - first:
+      4: 400044
+    second: Head 3
+  - first:
+      4: 400046
+    second: Head 4
+  - first:
+      4: 400048
+    second: Head 5
+  - first:
+      4: 400050
+    second: Head 6
+  - first:
+      4: 400052
+    second: Head 7
+  - first:
+      4: 400054
+    second: Head 8
+  - first:
+      4: 400056
+    second: Head 9
+  - first:
+      4: 400058
+    second: hips
+  - first:
+      4: 400060
+    second: indexDistal.L
+  - first:
+      4: 400062
+    second: indexDistal.L_end
+  - first:
+      4: 400064
+    second: indexDistal.R
+  - first:
+      4: 400066
+    second: indexDistal.R_end
+  - first:
+      4: 400068
+    second: indexIntermediate.L
+  - first:
+      4: 400070
+    second: indexIntermediate.R
+  - first:
+      4: 400072
+    second: indexProximal.L
+  - first:
+      4: 400074
+    second: indexProximal.R
+  - first:
+      4: 400076
+    second: jaw
+  - first:
+      4: 400078
+    second: jaw_end
+  - first:
+      4: 400080
+    second: Lamp
+  - first:
+      4: 400082
+    second: lowerArm.L
+  - first:
+      4: 400084
+    second: lowerArm.R
+  - first:
+      4: 400086
+    second: lowerLeg.L
+  - first:
+      4: 400088
+    second: lowerLeg.R
+  - first:
+      4: 400090
+    second: //RootNode
+  - first:
+      4: 400092
+    second: MA Body 1
+  - first:
+      4: 400094
+    second: MA Body 2
+  - first:
+      4: 400096
+    second: MA Body 3
+  - first:
+      4: 400098
+    second: MA Body 4
+  - first:
+      4: 400100
+    second: MA Body 5
+  - first:
+      4: 400102
+    second: middleDistal.L
+  - first:
+      4: 400104
+    second: middleDistal.L_end
+  - first:
+      4: 400106
+    second: middleDistal.R
+  - first:
+      4: 400108
+    second: middleDistal.R_end
+  - first:
+      4: 400110
+    second: middleIntermediate.L
+  - first:
+      4: 400112
+    second: middleIntermediate.R
+  - first:
+      4: 400114
+    second: middleProximal.L
+  - first:
+      4: 400116
+    second: middleProximal.R
+  - first:
+      4: 400118
+    second: neck
+  - first:
+      4: 400120
+    second: spine
+  - first:
+      4: 400122
+    second: thumbDistal.L
+  - first:
+      4: 400124
+    second: thumbDistal.L_end
+  - first:
+      4: 400126
+    second: thumbDistal.R
+  - first:
+      4: 400128
+    second: thumbDistal.R_end
+  - first:
+      4: 400130
+    second: thumbIntermediate.L
+  - first:
+      4: 400132
+    second: thumbIntermediate.R
+  - first:
+      4: 400134
+    second: thumbProximal.L
+  - first:
+      4: 400136
+    second: thumbProximal.R
+  - first:
+      4: 400138
+    second: toe.L
+  - first:
+      4: 400140
+    second: toe.L_end
+  - first:
+      4: 400142
+    second: toe.R
+  - first:
+      4: 400144
+    second: toe.R_end
+  - first:
+      4: 400146
+    second: upperArm.L
+  - first:
+      4: 400148
+    second: upperArm.R
+  - first:
+      4: 400150
+    second: upperLeg.L
+  - first:
+      4: 400152
+    second: upperLeg.R
+  - first:
+      20: 2000000
+    second: Camera
+  - first:
+      21: 2100000
+    second: Trousers
+  - first:
+      21: 2100002
+    second: Jacket
+  - first:
+      21: 2100004
+    second: Boots
+  - first:
+      21: 2100006
+    second: Gear
+  - first:
+      21: 2100008
+    second: Skin
+  - first:
+      21: 2100010
+    second: Belt
+  - first:
+      21: 2100012
+    second: Decorations
+  - first:
+      21: 2100014
+    second: Hair
+  - first:
+      21: 2100016
+    second: Beard
+  - first:
+      21: 2100018
+    second: Helmet
+  - first:
+      21: 2100020
+    second: Mask
+  - first:
+      43: 4300000
+    second: MA Body 5
+  - first:
+      43: 4300002
+    second: MA Body 1
+  - first:
+      43: 4300004
+    second: MA Body 2
+  - first:
+      43: 4300006
+    second: MA Body 3
+  - first:
+      43: 4300008
+    second: MA Body 4
+  - first:
+      43: 4300010
+    second: Head 10
+  - first:
+      43: 4300012
+    second: Head 4
+  - first:
+      43: 4300014
+    second: Head 2
+  - first:
+      43: 4300016
+    second: Head 19
+  - first:
+      43: 4300018
+    second: Head 11
+  - first:
+      43: 4300020
+    second: Head 5
+  - first:
+      43: 4300022
+    second: Head 3
+  - first:
+      43: 4300024
+    second: Head 1
+  - first:
+      43: 4300026
+    second: Head 9
+  - first:
+      43: 4300028
+    second: Head 6
+  - first:
+      43: 4300030
+    second: Head 12
+  - first:
+      43: 4300032
+    second: Head 8
+  - first:
+      43: 4300034
+    second: Head 13
+  - first:
+      43: 4300036
+    second: Head 7
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      108: 10800000
+    second: Lamp
+  - first:
+      137: 13700000
+    second: Head 1
+  - first:
+      137: 13700002
+    second: Head 10
+  - first:
+      137: 13700004
+    second: Head 11
+  - first:
+      137: 13700006
+    second: Head 12
+  - first:
+      137: 13700008
+    second: Head 13
+  - first:
+      137: 13700010
+    second: Head 19
+  - first:
+      137: 13700012
+    second: Head 2
+  - first:
+      137: 13700014
+    second: Head 3
+  - first:
+      137: 13700016
+    second: Head 4
+  - first:
+      137: 13700018
+    second: Head 5
+  - first:
+      137: 13700020
+    second: Head 6
+  - first:
+      137: 13700022
+    second: Head 7
+  - first:
+      137: 13700024
+    second: Head 8
+  - first:
+      137: 13700026
+    second: Head 9
+  - first:
+      137: 13700028
+    second: MA Body 1
+  - first:
+      137: 13700030
+    second: MA Body 2
+  - first:
+      137: 13700032
+    second: MA Body 3
+  - first:
+      137: 13700034
+    second: MA Body 4
+  - first:
+      137: 13700036
+    second: MA Body 5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beard
+    second: {fileID: 2100000, guid: 46d5afa9cb7514caea1020629f2fa6db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belt
+    second: {fileID: 2100000, guid: 6b1d1c6a84fb94d12af96e35119a44a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boots
+    second: {fileID: 2100000, guid: e5b31ea34ba534614b89227deb677b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decorations
+    second: {fileID: 2100000, guid: b8d1cec2263a34f00b8328580211394a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gear
+    second: {fileID: 2100000, guid: baecd99dbf2834ba59b68f15b08cf146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: 541fcc2dd12634cdab5096e357c90f2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helmet
+    second: {fileID: 2100000, guid: 9fe559f47b535428f9728fc336abab55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jacket
+    second: {fileID: 2100000, guid: beda52bb5045c4b48baf7292efb2ca69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mask
+    second: {fileID: 2100000, guid: 843eea323916e4faaa0dccaf3164128d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: a9a74cb417f034993bfde019589bed8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trousers
+    second: {fileID: 2100000, guid: f2b4004de55de42ec845e2850a2d1f01, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - c98c1d2dcbd23844e9c46010334f6d81
+  - ed6fb45b604b1924b801ba364108f421
+  - c216bac4d20e98b47bf7d1cbe125e371
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
