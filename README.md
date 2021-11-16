@@ -10,3 +10,13 @@ If you choose to duel, you and your enemy will strive to reduce the other's HP t
 If you chose to perform a pattern, a series of movments will be displayed on screen, you have to remember them! Select the correct movment to perform as fast as you can before the timer ends, but be quick! Quicker players win more points!
 
 [Click here for a more detailed breakdown of the game!](https://github.com/gamedev-srg/Ultimate-Taekwon-do/blob/main/formal-elements.md)
+
+## The Game
+### Controls
+* A and D keys to move left and right.
+* Spacebar to jump
+* Left-Click or CTRL to kick
+
+### Notes:
+So far we have implemented only a single player, with a simple moveset. 
+The npc is a Dummy, as we haven't implemented AI yet.
