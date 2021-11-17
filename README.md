@@ -11,6 +11,8 @@ If you chose to perform a pattern, a series of movments will be displayed on scr
 
 [Click here for a more detailed breakdown of the game!](https://github.com/gamedev-srg/Ultimate-Taekwon-do/blob/main/formal-elements.md)
 
+[Link to the itch.io page for the game](https://g-r-s.itch.io/taekwondo)
+
 ## The Game
 ### Controls
 * A and D keys to move left and right.
